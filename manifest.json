@@ -1,0 +1,19 @@
+{
+  "name": "SpinRise",
+  "short_name": "SpinRise",
+  "theme_color": "",
+  "background_color": "#F5F7F9",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764774543-favicon-1.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
